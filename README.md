@@ -6,12 +6,19 @@ Clichaos is made out of 2 words, click + chaos = clichaos
 The motive of this game is to just click buttons. That's it. But the thing is that it is not going to be easy.
 Buttons a cunningly smart. They can hide, run, disguise and do whatever you can think of!
 
-There is no official name every level, each level is just numbered.
-There is more info about levels in the game itself.
+> There is no official name every level, each level is just numbered.
+> 
+> There is more info about levels in the game itself.
 
-This game also includes various easter eggs and more to come!
+> This game also includes various easter eggs and more to come!
+>
+> This game was my idea, I have not copied it, I got it once talking with ChatGPT.
 
-This game was my idea, I have not copied it, I got it once talking with ChatGPT.
+> This game is made for desktops and it may not work on mobile phone.
+> 
+> Moreover, this game is strictly not optimezed for touch screens as some levels break on touch screen since they require cursor's position.
+>
+> This game is meant to be a rage game, it is basically a puzzle game.
 
 ## Version History:-
 ### Initial release:
